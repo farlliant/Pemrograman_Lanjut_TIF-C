@@ -28,5 +28,6 @@ public class MainStudent {
     chris.setAddress("Surabaya");
     chris.setAge(22);
     chris.displayMessage();
+    System.out.println();
     }
 }
