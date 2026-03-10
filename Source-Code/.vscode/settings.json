@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "BAB2",
         "BAB1",
-        "BAB2"
+        "BAB3"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Overloading {
+public class Overloading{
     public static void HitungLuas(int a,int b){
         int nilai = a*b;
         System.out.println("maka hasil luas : "+nilai);
@@ -21,6 +21,6 @@ public class Overloading {
         System.out.print("masukkan nilai double 2 : ");
         double double2 = in.nextDouble();
         HitungLuas(integer1, integer2);
-        System.out.println("Maka hasil luas : "+HitungLuas(double1, double2));
+        System.out.println("Maka hasil luas : " + HitungLuas(double1, double2));
     }
 }
