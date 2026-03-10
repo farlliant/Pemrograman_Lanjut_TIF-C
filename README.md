@@ -24,7 +24,7 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** ag
 | :--- | :--- | :---: |
 | **01** | Class dan Object | ✅ |
 | **02** | Constructor dan Instance Method | ✅ |
-| **03** | Overload dan Overload Method | ⏳ |
+| **03** | Overload dan Overload Method | ✅ |
 | **04** | Encapsulation | ⏳ |
 | **05** | Static Modifier dan Konstanta Final | ⏳ |
 | **06** | Inheritance | ⏳ |
